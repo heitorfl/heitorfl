@@ -2,6 +2,12 @@
 Seja bem vindo ao melhor perfil do Github!
 - Sou um estudante de Informática no IFTM.
 - *Códigos iniciantes*
+
+  #Redes sociais
+  <div>
+    <a href="https://instagram.com/_heitorfl" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:heitorfernandesdelima@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 <!--
 **heitorfl/heitorfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
