@@ -1,7 +1,8 @@
-## Opa mano, c ta bão? ⚡
-
+# Heitor ⚡
+##Opa mano, bão dms?
+- Sou um estudante de Informática
 <!--
-**heitorfl/heitorfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heitorfl/heitorfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
