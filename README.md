@@ -1,6 +1,7 @@
-# Heitor ⚡
-##Opa mano, bão dms?
-- Sou um estudante de Informática
+# E ai?, me chamo Heitor ⚡
+Seja bem vindo ao melhor perfil do Github!
+- Sou um estudante de Informática no IFTM.
+- *Códigos iniciantes*
 <!--
 **heitorfl/heitorfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
