@@ -1,4 +1,4 @@
-# E ai? Me chamo Heitor ⚡
+# E ai? Meu nome é Heitor ⚡
 Seja bem vindo ao melhor perfil do Github!
 - Sou um estudante de Informática no IFTM.
 - *Códigos iniciantes*
