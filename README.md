@@ -15,7 +15,7 @@ Seja bem vindo ao melhor perfil do Github!
   </div>
 
 
-# Linguagens 
+# Tecnologias
 
 <div style="display: inline_block"> </br>
 
