@@ -14,7 +14,7 @@
 <div>
     <a href="https://instagram.com/_heitorfl" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:heitorfernandesdelima@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/heitor-fernandes-de-lima-25aaa7339/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/heitor-fernandes-de-lima-25aaa7339/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL"></a>
 
   </div>
 
