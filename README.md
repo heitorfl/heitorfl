@@ -1,4 +1,4 @@
-# Fala Dev, beleza? Meu nome é Heitor! 🖥️
+# Fala Dev🧑‍💻, beleza? Meu nome é Heitor! 🖥️
 <p>Seja bem vindo ao meu perfil!</p>
 <p>Aqui você pode encontrar alguns códigos que eu fiz eu participei, seja livre pra olhá-los</p>
 
