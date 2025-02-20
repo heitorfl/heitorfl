@@ -1,6 +1,6 @@
 # Faaala dev! Beleza? Meu nome é Heitor! 🖥️
 <p>Seja bem vindo ao meu perfil!</p>
-<p>Aqui você pode encontrar alguns códigos que eu fiz eu participei, seja livre pra olhá-los</p>
+<p>Aqui você pode encontrar alguns códigos que eu fiz e participei, seja livre pra olhá-los</p>
 
 <h3>Sobre mim</h3>
 <ul>
