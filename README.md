@@ -1,5 +1,4 @@
-# Faaala dev! Beleza? Meu nome é Heitor! 🖥️
-<p>Seja bem vindo ao meu perfil!</p>
+<h2 align="center">Seja bem vindo ao meu perfil!</h2>
 <p>Aqui você pode encontrar alguns códigos que eu fiz e participei, seja livre pra olhá-los</p>
 
 <h3>Sobre mim</h3>
