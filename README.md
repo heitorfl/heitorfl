@@ -1,30 +1,29 @@
 <h2 align="center">Seja bem vindo ao meu perfil!</h2>
-<p>Aqui você pode encontrar alguns códigos que eu fiz e participei, seja livre pra olhá-los</p>
-
-<h3>Sobre mim</h3>
-<ul>
-   <li>Sou um estudante de programação e faço Curso Técnico Integrado ao Ensino Médio no IFTM</li>
-   <li>Tenho 16 anos</li>
-   <li>Meu objetivo é me tornar um Dev Fullstack</li>
-</ul>
-
-<h3>Minhas redes:</h3>
-
+<div align="center">
+   
+   ![heitorfl's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorfl&show_icons=true&theme=radical)
+   
+</div>
+<h2>👨‍💻Sobre mim</h2>
 <div>
-    <a href="https://instagram.com/_heitorfl" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:heitorfernandesdelima@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/heitor-fernandes-de-lima-25aaa7339/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL"></a>
+   Sou um estudante de programação e faço Curso Técnico Integrado ao Ensino Médio no IFTM</li>
+   Tenho 16 anos</li>
+   Meu objetivo é me tornar um Dev Fullstack
+</div>
 
-  </div>
+<h2>📱Minhas redes:</h2>
 
-<h3>Tecnologias</h3>
+<div align="center">
+   
+   [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_heitorfl/)
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/heitor-fernandes-de-lima-25aaa7339/)
 
-<div style="display: flex; justify-content: center;">
-   <img aling="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
-   <img aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
-   <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">   
-   <img aling="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="">
-   <img aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
-   <img aling="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
-   <img aling="center" src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="">
+</div>
+
+<h2>🖥️Tecnologias</h2>
+
+<div align="center">
+   
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,c,sass,tailwind&perline=4)](https://skillicons.dev)
+   
 </div>
