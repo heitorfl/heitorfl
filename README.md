@@ -6,7 +6,7 @@
 </div>
 <h2>👨‍💻Sobre mim</h2>
 <div>
-   Sou um estudante de programação e faço Curso Técnico Integrado ao Ensino Médio no IFTM. Tenho 16 anos e meu objetivo é me tornar um Dev Fullstack, mas atualmente sou um Dev web front-end.
+   Sou um estudante de programação e faço Curso Técnico Integrado ao Ensino Médio no IFTM. Tenho 17 anos e meu objetivo é me tornar um Dev Fullstack, mas atualmente sou um Dev web front-end.
 </div>
 
 <h2>📱Minhas redes:</h2>
